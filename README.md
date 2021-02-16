@@ -1,4 +1,4 @@
-# app
+# Tic Tac Toe Game build in Vue.JS and the composition API.
 
 ## Project setup
 ```
